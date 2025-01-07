@@ -9,7 +9,8 @@ Project Highlights
 - Recommendations for securing and remediating risks
 
 ## Contents
-**[Presentation (PDF)](Project1.pdf)** slideshow with more detailed analysis and deep dive into remediations.
+**[Presentation (PDF)](Project1.pdf)** slideshow with more detailed analysis and deep dive into remediations
+
 **Key Screenshots**:
 - Nmap topology scan (Screenshots/NmapTopoResult.png)
 - Nmap results and identifying the first vulnerability (Screenshots/NmapVulnerabilityID.png)
