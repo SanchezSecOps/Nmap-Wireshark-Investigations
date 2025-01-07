@@ -15,7 +15,7 @@ Project Highlights
 - Nmap results and identifying the first vulnerability (Screenshots/NmapVulnerabilityID.png)
 - PCAP file analysis with Wireshark & display filters (Screenshots/PcapAnalysis-filters.png)
 **Supplementary Files**:
-  - Network configuartion samples.
+  - Network configuration samples.
   - Example ACL rules for mitigating vulnerabilities
 
  ## Key Findings
@@ -72,4 +72,4 @@ The slideshow details at length the recommended actions to secure the network be
 ## About Me
 My friends call me Jewel. I'm a security enthusiast for all things digital and physical, and I'm completing a bachelor's in cybersecurity.
 I run a small IT and Security business where I consult and support my clients with various services like physical pen-testing and IT security consulting.
-Currently I'm
+Currently, I'm looking to be a part of a larger organization to gain more technical skills and accomplish larger business objectives.
