@@ -17,8 +17,8 @@ Project Highlights
 - PCAP file analysis with Wireshark & display filters (Screenshots/PcapAnalysis-filters.png)
 
 **Supplementary Files**:
-  - Network configuration samples.
-  - Example ACL rules for mitigating vulnerabilities
+  - Network_config_samples
+  - ACL_rules
 
  ## Key Findings
  1. **Topology Analysis**:
